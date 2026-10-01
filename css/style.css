@@ -4,3 +4,8 @@
     text-decoration: none;
     list-style: none;
 }
+
+td, th {
+    text-align: center;
+}
+
